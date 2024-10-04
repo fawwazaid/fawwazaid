@@ -1,49 +1,75 @@
 <h1 align="center">Hi 👋, I'm Fawwaz</h1>
-<h4 align="center">A passionate Software Engineer with a background in Civil Engineering, focused on creating impactful software solutions. I specialize in web development and have hands-on experience in building an e-commerce platform using Next.js and Flask. Eager to leverage my engineering expertise and software skills to enhance user experiences and solve real-world problems.</h4>
+<h4 align="center">
+   A passionate Software Engineer with a background in Civil Engineering, focused on creating impactful software solutions.
+   I specialize in web development, data science, and have hands-on experience building e-commerce platforms using Next.js and Flask.
+</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fawwazaid&label=Profile%20views&color=0e75b6&style=flat" alt="fawwazaid" /> </p>
-
-- 🌱 Currently enhancing my skills in:
-   - Frontend Development: React, Next.js
-   - Backend Development: Flask, Python
-   - Database Management: MySQL, PostgreSQL, Supabase
-   - Deployment: Docker, Google Cloud, Railway
-   - API Development and Integration
-   - User Experience Design
-
-- 📫 How to reach me: **fawwazaid@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fawwazaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawwazaid" height="30" width="40" /></a>
+<p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=fawwazaid&label=Profile%20views&color=0e75b6&style=flat" alt="fawwazaid" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://nextjs.org/static/favicon/favicon.ico" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="40" height="40"/> </a>
-  <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.app/favicon.ico" alt="railway" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+---
+
+### 👨‍💻 About Me:
+- 🔧 Transitioned from Civil Engineering to Software Engineering with a focus on creating efficient and scalable software.
+- 🏗️ Developed full-stack e-commerce solutions with a focus on user experience and performance.
+- 🧠 Gained **Data Science** expertise from **TripleTen**, working on real-world applications like **Customer Segmentation**.
+- 💻 Experienced with **Next.js, Flask, Python, React, PostgreSQL**, and **Docker**.
+- 🌱 Currently sharpening my skills in **API Integration**, **UI/UX Design**, and **Cloud Deployment** (GCP, Docker, Railway).
+- 📧 How to reach me: **fawwazaid@gmail.com**
+
+---
+
+### ⚒️ Tools & Technologies:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://nextjs.org/static/favicon/favicon.ico" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="40" height="40"/>
+  <img src="https://railway.app/favicon.ico" alt="railway" width="40" height="40"/>
 </p>
 
-<h3 align="left">Projects:</h3>
+---
+
+### 🛠️ Projects:
+
+#### **E-commerce Platform**
+Developed a full-stack e-commerce application using **Next.js** for the frontend and **Flask** for the backend. 
+The platform includes features like:
+- 🛍️ Product management and secure payment system.
+- 🔒 JWT-based authentication.
+- ⚡ Optimized performance and responsive design.
+- 🚀 Deployed using Docker (Railway for backend, Vercel for frontend).
+
+#### **Customer Segmentation** (Data Science Project from TripleTen)
+- Used machine learning algorithms to segment customers based on behavior.
+- Tools: **Python, Scikit-learn, Pandas**.
+- Helped businesses make data-driven marketing decisions.
+
+---
+
+### 🌐 Connect With Me:
 <p align="left">
-  <strong>E-commerce Platform</strong> <br>
-  Developed a full-stack e-commerce application using <strong>Next.js</strong> for the frontend and <strong>Flask</strong> for the backend. The application features user authentication, product management, and a secure payment system. <br>
-  Key features include:
-  - Optimized for fast loading times and responsive design.
-  - Integrated a secure JWT-based authentication system for users.
-  - Leveraged PostgreSQL for efficient data management and retrieval.
-  - Deployed using Docker on Railway for backend and Vercel for frontend.
+   <a href="https://linkedin.com/in/fawwazaid" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawwazaid" height="30" width="40" />
+   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawwazaid&show_icons=true&locale=en&layout=compact" alt="fawwazaid" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawwazaid&show_icons=true&locale=en" alt="fawwazaid" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawwazaid&show_icons=true&locale=en&layout=compact" alt="fawwazaid" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawwazaid&" alt="fawwazaid" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fawwazaid&show_icons=true&locale=en" alt="fawwazaid" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawwazaid&" alt="fawwazaid" />
+</p>

@@ -2,7 +2,7 @@
 <h4 align="center">
    A passionate Software Engineer with a background in Civil Engineering, focused on creating impactful software solutions.
    I specialize in web development, data science, and have hands-on experience building e-commerce platforms using Next.js and Flask.
-   Here is my <a href="https://github.com/your-profile">portfolio</a>
+   Here is my <a href="https://docs.google.com/presentation/d/1Ihzicje3yO8iUBwDpvrTBBQ9EpOitrolhmOpDwZa6Xc/edit?usp=sharing">portfolio</a>
 .
 </h4>
 

@@ -1,23 +1,54 @@
 ### Hi! 👋 I'm Fawwaz.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web and machine learning technology! I've enjoyed python and make it the main language in creating machine learning project.
 
-I'm currently active in contributing as .
+I'm currently active in learning about web development or machine learning.
 
+<!-- 
 - 🔭 I’m currently working on <a href=""></a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about web development or machine learning
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
+-->
+
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <br>
-  <br>
+<a href="https://nextjs.org/">
+  <img align="left" alt="Next.js" title="Next.js" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</a>
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" title="Python" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img align="left" alt="Flask" title="Flask (Python Framework)" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+</a>
+<a href="https://jupyter.org/">
+  <img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+</a>
+<a href="https://www.docker.com/">
+  <img align="left" alt="Docker" title="Docker" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</a>
+<a href="https://airflow.apache.org/">
+  <img align="left" alt="Apache Airflow" title="Apache Airflow" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+</a>
+<a href="https://railway.app/">
+  <img align="left" alt="Railway" title="Railway" width="21px" src="https://railway.app/brand/logo-dark.svg" />
+</a>
+<a href="https://vercel.com/">
+  <img align="left" alt="Vercel" title="Vercel" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="SQL" title="SQL" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
+<a href="https://supabase.com/">
+  <img align="left" alt="Supabase" title="Supabase" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+</a>
+
+<br>
+<br>
+
+
   
 ### Github Statistic
 <p align="left">

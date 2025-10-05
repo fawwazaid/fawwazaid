@@ -4,9 +4,16 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active in learning about web development or machine learning.
 
+- 🔭 Check my Practicum/TripleTen Bootcamp Data Science Project  
+  👉 [Data Science Portfolio](https://github.com/fawwazaid/DataScience_Portofolio)
+
+- 🌱 Here's my RevoU Software Engineering Bootcamp Project  
+  👉 Front-End: [eco-market-front-end](https://github.com/fawwazaid/eco-market-front-end)  
+  👉 Back-End: [eco-market-back-end](https://github.com/fawwazaid/eco-market-back-end)
+
 <!-- 
-- 🔭 I’m currently working on <a href=""></a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🔭 Check my Practicum/TripleTen Bootcamp data science <a href=""></a>
+- 🌱 Here's my RevoU Software Engineering Bootcamp Project <a href=""></a>
 - 💬 Feel free to ask me about web development or machine learning
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
